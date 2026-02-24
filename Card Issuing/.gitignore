@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent/tool directories
+.agent/
+.agents/
+.kiro/
+.claude/
